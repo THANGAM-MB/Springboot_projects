@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: thangam
+Build-Jdk: 21.0.4
+Implementation-Title: Registration
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.login
+Implementation-URL: https://spring.io/projects/spring-boot/Registration
+Created-By: Maven Integration for Eclipse
+
